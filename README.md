@@ -18,9 +18,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anik804&limit=5&theme=slateorange&combine_all_yearly_contributions=true)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anandadevnath/Anandadevnath/output/snake.svg" alt="Snake animation" width="100%"/>
-</p>
 
 
 ---
